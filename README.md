@@ -53,9 +53,4 @@ This project follows ServiceNow best practices using Flow Designer instead of le
 
 ---
 
-## 🧩 Key Configuration Details
 
-### Scripted Approver Logic
-```javascript
-answer = [];
-answer.push('USER_SYS_ID');
